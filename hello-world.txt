@@ -1,1 +1,4 @@
-This is for practice purposes only
+Took out the first line 
+make edits on theo file
+line 3 more text
+adding extra text on the folder
